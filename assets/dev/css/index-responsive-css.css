@@ -1,0 +1,132 @@
+@media (min-width:992px){
+    .section-description .col-img{
+        padding: 0;
+    }
+
+    .col-description{
+        padding: 72px 193px;
+    }
+
+    .menu-footer-container,.col-terms-inner{
+        padding-left: 100px;
+        padding-right: 58px;
+    }
+
+    .description{
+        padding-right: 20px;
+    }
+
+    .col-terms{
+        padding-right: 120px;
+    }
+
+}
+
+@media (max-width:991px){
+   /* .col-activitee{
+        margin-bottom: 40px !important;
+    }**/
+    .btn-more-container{
+        margin-bottom: 40px;
+    }
+
+    .col-menu-footer{
+          text-align: center;
+    }
+
+    .col-terms-inner{
+        padding-right: 6px;
+        padding-left: 6px;
+    }
+
+    .title-contact {
+        margin-bottom: 72px;
+    }
+
+    .title-slider{
+       /** font-size-adjust: initial;
+        font-size: 59px;
+        text-size-adjust: inherit;**/
+    }
+}
+
+@media (max-width:695px){
+    .slider-text-container{
+    margin-top: 113px;
+    margin-top: 31%;
+   }
+}
+
+@media(max-width:1150px){
+    .title-slider{
+          line-height: 79px;
+    }
+}
+
+
+@media(max-width:415px){
+    .img-description{
+        width: 60%;
+        height: auto;
+    }
+
+    .title-slider{
+        font-size: 83px;
+    }
+
+}
+
+@media(max-width:353px){
+    .title-portfolio,.title-section{
+        flex-wrap: wrap-reverse;
+        overflow-wrap: break-word;
+    }
+    .title-contact{
+        font-size: 50px;
+    }
+}
+
+
+@media(max-width:355px){
+    .title-footer{
+        line-height: normal;
+    }
+}
+
+ @media(max-width:862px){
+    img#img-galrie {
+        width: 50%;
+    }
+}
+
+@media(max-width:862px){
+    .next-image-galrie {
+       /** margin-left: 657px;**/
+                margin-left: 657px;
+                right: 0;
+                float: right;
+                position: relative;
+       }
+}
+
+@media(max-width:699px){
+    .btn-navigate-galerie{
+               display: none;
+       }
+}
+
+@media(max-width:338px){
+    .title-description{
+            text-align: center;
+    }
+}
+
+@media(max-width:317px){
+    .title-slider{
+          line-height: 58px !important;
+    }
+}
+
+@media(max-width:243px){
+     
+}

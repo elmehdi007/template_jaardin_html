@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Deadhead Script';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('deadhead-script'), url(../../font/deadhead-script/deadhead-script.otf); /** format('otf');**/
+   /** unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;**/
+  }
+
+  @font-face {
+    font-family: 'Montserrat Ligh';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Light'), local('montserrat-light'), url(../../font/montserrat/montserrat-light.otf);/** format('otf');**/
+   /** unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;**/
+  }
+
+
+  @font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    /**src: local('Montserrat Regular'), local('Montserrat-Regular'), url(../../font/montserrat/Montserrat-Light.otf) format('woff2');**/
+    src: local('Montserrat V12 Latin Regular'), local('montserrat-v12-latin-regular'), url(../../font/montserrat-v12-latin/montserrat-v12-latin-regular.woff2) format('woff2');
+   /** unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;**/
+  }
+
+  @font-face {
+    font-family: 'Muli Light';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Muli Light'), local('muli-light'), url(../../font/muli-light/muli-light.ttf) format('ttf');
+   /** unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;**/
+  }
+
+  
