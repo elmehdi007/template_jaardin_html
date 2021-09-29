@@ -1,3 +1,3 @@
 # template_html
 
-http://demo-git.great-site.net/
+http://demo-git.great-site.net/template_html
